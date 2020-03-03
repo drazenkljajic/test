@@ -5,4 +5,4 @@ Some description.
 
 Another description.
 
-New topic description.
+More information about new topic description.
